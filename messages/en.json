@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "logoAlt": "Mayan Pacific Realty",
+    "welcome": "Welcome to Mayan Pacific Realty",
+    "catalog": "View Catalog",
+    "contact": "Contact",
+    "about": "About Us",
+    "openMenu": "Open menu"
+  },
+  "video": {
+    "notSupported": "Your browser does not support HTML5 video.",
+    "fullscreenNotSupported": "Fullscreen not supported on this device",
+    "pause": "Pause video",
+    "play": "Play video",
+    "unmute": "Unmute",
+    "mute": "Mute",
+    "fullscreen": "Fullscreen"
+  },
+  "projects": {
+    "baay": {
+      "location": "Playa del Carmen",
+      "description": "Baay Eco‑Studios is an exclusive development of 44 ocean-view units, designed to offer a high-quality residential experience with ecological sensitivity. Certified under the EDGE standard, it features technology that optimizes energy, water, and materials usage through simple yet effective strategies. This ensures a minimum 20% savings in each of these areas without compromising comfort or style. Built with full respect for the environment, Baay sets a new paradigm of sustainability and well-being in Playa del Carmen.",
+      "features": {
+        "rooftopPool": "Rooftop Pool",
+        "gym": "Gym",
+        "security": "24/7 Security",
+        "beachAccess": "Beach Access"
+      },
+      "units": "44 Units",
+      "delivery": "2026 - April"
+    },
+    "brahma": {
+      "location": "Selvazama",
+      "description": "Brahma is an exclusive luxury apartment development located in the heart of Selvazama, Tulum. Designed for those seeking a sophisticated lifestyle in harmony with nature, Brahma offers premium finishes, contemporary architecture, and wellness-focused amenities. It’s an ideal investment both for living and high-end rentals.",
+      "features": {
+        "privatePool": "Private Pool",
+        "gardenView": "Garden View",
+        "spa": "Spa"
+      },
+      "units": "56 Units",
+      "delivery": "2025 - December. Tower B and Tower C."
+    },
+    "xanbel": {
+      "location": "Luxury Villas in Selvazama",
+      "description": "Xanbel, meaning 'slow' in Mayan, invites you to embrace slow living in the heart of Selvazama. These high-end villas are designed for conscious families who prioritize sustainability, multicultural safety, and constant connection with nature, without giving up comfort or contemporary design. Exclusive villas that combine signature architecture, high-end natural finishes, and a design that honors the essence of Tulum. Spacious, private, and elegant spaces immersed in Selvazama’s jungle. For those who seek luxury, but also connection and peace.",
+      "features": {
+        "rooftopPool": "Rooftop Pool",
+        "gym": "Gym",
+        "security": "24/7 Security"
+      },
+      "units": "7 Villas",
+      "delivery": "2025 - December"
+    },
+    "sculptural": {
+      "name": "Sculptural Homes",
+      "location": "Livable Art in the Jungle",
+      "description": "Ultra-exclusive project of only 3 residences, each with a unique circular design, over 550 m² of construction and premium amenities (stone pool, paddle tennis, garden, outdoor gym, mini-golf…). For those seeking maximum privacy, elegance, and an architectural masterpiece in harmony with the jungle. Only 3 homes, 3 masterpieces. Each with a distinct, organic, sculptural architectural design that dialogues with Selvazama’s jungle. Fluid spaces, curves that embrace natural light, and aesthetics that turn luxury into a sensory experience. More than homes: living works of art.",
+      "features": {
+        "privatePool": "Private Pool",
+        "gardenView": "Garden View",
+        "spa": "Spa"
+      },
+      "units": "3 Units ON DEMAND",
+      "delivery": "NA"
+    },
+    "available": "Available",
+    "delivery": "Delivery",
+    "mainFeatures": "Main features:",
+    "learnMore": "Learn more",
+    "imageAlt": "{name} - Image {index}",
+    "exclusiveBadge": "Exclusive Project"
+  },
+  "catalog": {
+    "title": "Discover more exclusive properties",
+    "subtitle": "Explore our complete collection of luxury properties in the most sought-after destinations of the Riviera Maya. Each property has been carefully selected to offer the utmost exclusivity and comfort.",
+    "premiumLocations": "Premium Locations",
+    "premiumLocationsDesc": "Playa del Carmen, Tulum, Cancún, and more exclusive destinations",
+    "guaranteedQuality": "Guaranteed Quality",
+    "guaranteedQualityDesc": "Properties verified with the highest standards of luxury",
+    "expertAdvice": "Expert Advice",
+    "expertAdviceDesc": "Personalized support throughout the purchase process",
+    "viewCatalog": "View full catalog"
+  },
+  "owner": {
+    "badge": "Founder & CEO",
+    "title": "Meet Our Founder",
+    "subtitle": "With over 15 years of experience in the Riviera Maya real estate market.",
+    "name": "Ernesto Lizarraga",
+    "position": "Founder & CEO of Mayan Pacific Realty",
+    "photoAlt": "Ernesto - Founder of Mayan Pacific Realty",
+    "description1": "With a warm, authentic, and human vision, Ernesto has turned real estate investment into an emotional experience, because here you don’t just buy square meters… you buy a lifestyle that inspires.",
+    "description2": "His approach focuses on creating genuine connections between people and spaces, understanding that every property tells a unique story in the paradise of the Riviera Maya.",
+    "quote": "You don’t come here to search, you come to find what was always made for you.",
+    "years": "Years of experience",
+    "clients": "Happy clients",
+    "units": "Units sold",
+    "officesTitle": "Visit us at our offices",
+    "officesSubtitle": "We’re waiting for you in the heart of Playa del Carmen.",
+    "address": "Address",
+    "addressText": "Av. Constituyentes 123\nPlaya del Carmen, Quintana Roo",
+    "phone": "Phone",
+    "phoneText": "+52 984 123 4567",
+    "email": "Email",
+    "emailText": "info@mayanpacific.com",
+    "hours": "Business Hours",
+    "hoursText": "Monday to Friday: 9:00 AM - 7:00 PM"
+  },
+  "contact": {
+    "title": "Ready to find your ideal property?",
+    "subtitle": "Contact us today and discover the best opportunities.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "+52 984 123 4567",
+      "interest": "What type of property are you interested in?",
+      "selectOption": "Select an option",
+      "condo": "Apartment/Condo",
+      "villa": "Villa/House",
+      "penthouse": "Penthouse",
+      "investment": "Investment/Rental",
+      "other": "Other",
+      "message": "Tell us more about what you're looking for...",
+      "messagePlaceholder": "Describe your ideal property...",
+      "send": "Send Message"
+    },
+    "directContact": "Prefer to speak directly? Call us:"
+  },
+  "footer": {
+    "description": "Your trusted partner in luxury real estate in the Riviera Maya.",
+    "projects": "Projects",
+    "projectBaay": "Baay - Playa del Carmen",
+    "projectBrahma": "Brahma - Selvazama",
+    "allProjects": "View All Projects",
+    "services": "Services",
+    "propertySales": "Property Sales",
+    "investmentAdvice": "Investment Advice",
+    "propertyManagement": "Property Management",
+    "legalConsulting": "Legal Consulting",
+    "contact": "Contact",
+    "location": "Playa del Carmen, Q.R.",
+    "follow": "Follow us",
+    "followDesc": "Stay up to date with the latest properties.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions"
+  }
+}

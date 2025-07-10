@@ -1,0 +1,151 @@
+{
+    "nav": {
+      "logoAlt": "Mayan Pacific Realty",
+      "welcome": "Bienvenido a Mayan Pacific Realty",
+      "catalog": "Catálogo",
+      "contact": "Contacto",
+      "about": "Nosotros",
+      "openMenu": "Abrir menú"
+    },
+    "video": {
+      "notSupported": "Tu navegador no soporta video HTML5.",
+      "fullscreenNotSupported": "Fullscreen no soportado en este dispositivo",
+      "pause": "Pausar video",
+      "play": "Reproducir video",
+      "unmute": "Activar sonido",
+      "mute": "Silenciar",
+      "fullscreen": "Pantalla completa"
+    },
+    "projects": {
+      "baay": {
+        "location": "Playa del Carmen",
+        "description": "Baay Eco‑Studios es un exclusivo desarrollo de 44 unidades con vista al mar, diseñado para ofrecer una experiencia residencial de alta calidad y sensibilidad ecológica. Certificado bajo el estándar EDGE, cuenta con tecnología que optimiza el uso de energía, agua y materiales, mediante estrategias simples pero efectivas . Esto garantiza un ahorro mínimo del 20 % en cada uno de estos rubros, sin sacrificar confort ni estilo. Construido con pleno respeto al entorno, Baay establece un nuevo paradigma de sostenibilidad y bienestar en Playa del Carmen.",
+        "features": {
+          "rooftopPool": "Piscina en Azotea",
+          "gym": "Gimnasio",
+          "security": "Seguridad 24/7",
+          "beachAccess": "Acceso a Playa"
+        },
+        "units": "44 Unidades",
+        "delivery": "2026 - Abril"
+      },
+      "brahma": {
+        "location": "Selvazama",
+        "description": "Brahma es un exclusivo desarrollo de departamentos de lujo ubicado en el corazón de Selvazama, Tulum. Diseñado para quienes buscan un estilo de vida sofisticado en armonía con la naturaleza, Brahma ofrece acabados premium, arquitectura contemporánea y amenidades pensadas para el bienestar. Es una inversión ideal tanto para vivir como para rentas de alto nivel.",
+        "features": {
+          "privatePool": "Piscina Privada",
+          "gardenView": "Vista al Jardín",
+          "spa": "Spa"
+        },
+        "units": "56 Unidades",
+        "delivery": "2025 - Diciembre. Torre B y Torre C."
+      },
+      "xanbel": {
+        "location": "Villas de lujo en Selvazama",
+        "description": "Xanbel, que significa 'lento' en maya, invita a adoptar un slow living en el corazón de Selvazama. Son villas de alta gama, pensadas para familias conscientes, que priorizan la sostenibilidad, la seguridad multicultural, y la conexión constante con la naturaleza, sin renunciar al confort ni el diseño contemporáneo. Villas exclusivas que combinan arquitectura de autor, acabados naturales de alto nivel y un diseño que honra la esencia de Tulum. Espacios amplios, privados y elegantes, inmersos en la selva de Selvazama. Para quienes buscan lujo, pero también conexión y calma.",
+        "features": {
+          "rooftopPool": "Piscina en Azotea",
+          "gym": "Gimnasio",
+          "security": "Seguridad 24/7"
+        },
+        "units": "7 Villas",
+        "delivery": "2025 - Diciembre"
+      },
+      "sculptural": {
+        "name": "Casas escultóricas",
+        "location": "Arte Habitable en la Selva",
+        "description": "Proyecto ultra-exclusivo de solo 3 residencias, cada una con diseño circular singular, más de 550 m² de construcción y amenidades premium (piscina de piedra, paddle tennis, huerto, gym al aire libre, mini-golf…). Es para quienes buscan la máxima privacidad, elegancia y una obra arquitectónica en sintonía con la selva. Solo 3 casas, 3 obras maestras. Cada una con un diseño arquitectónico distinto, orgánico y escultórico, que dialoga con la selva de Selvazama. Espacios fluidos, curvas que envuelven la luz natural y una estética que transforma el lujo en experiencia sensorial. Más que residencias: piezas de arte para vivirlas.",
+        "features": {
+          "privatePool": "Piscina Privada",
+          "gardenView": "Vista al Jardín",
+          "spa": "Spa"
+        },
+        "units": "3 Unidades A PEDIDO",
+        "delivery": "NA"
+      },
+      "available": "Disponibles",
+      "delivery": "Entrega",
+      "mainFeatures": "Características principales:",
+      "learnMore": "Conoce más",
+      "imageAlt": "{name} - Imagen {index}",
+      "exclusiveBadge": "Proyecto exclusivo"
+    },
+    "catalog": {
+      "title": "Descubre más propiedades exclusivas",
+      "subtitle": "Explora nuestra colección completa de propiedades de lujo en los destinos más codiciados de la Riviera Maya. Cada propiedad ha sido cuidadosamente seleccionada para ofrecer la máxima exclusividad y confort.",
+      "premiumLocations": "Ubicaciones Premium",
+      "premiumLocationsDesc": "Playa del Carmen, Tulum, Cancún y más destinos exclusivos",
+      "guaranteedQuality": "Calidad Garantizada",
+      "guaranteedQualityDesc": "Propiedades verificadas con los más altos estándares de lujo",
+      "expertAdvice": "Asesoría Experta",
+      "expertAdviceDesc": "Acompañamiento personalizado en todo el proceso de compra",
+      "viewCatalog": "Ver catálogo completo"
+    },
+    "owner": {
+      "badge": "Fundador & CEO",
+      "title": "Conoce a Nuestro Fundador",
+      "subtitle": "Con más de 15 años de experiencia en el mercado inmobiliario de la Riviera Maya.",
+      "name": "Ernesto Lizarraga",
+      "position": "Fundador & CEO de Mayan Pacific Realty",
+      "photoAlt": "Ernesto - Fundador de Mayan Pacific Realty",
+      "description1": "Con una visión cercana, auténtica y humana, Ernesto ha convertido la inversión inmobiliaria en una experiencia emocional, porque aquí no compras metros cuadrados… compras un estilo de vida que enamora.",
+      "description2": "Su enfoque se centra en crear conexiones genuinas entre las personas y los espacios, entendiendo que cada propiedad cuenta una historia única en el paraíso de la Riviera Maya.",
+      "quote": "Aquí no vienes a buscar, vienes a encontrar lo que siempre estuvo hecho para ti.",
+      "years": "Años de experiencia",
+      "clients": "Clientes satisfechos",
+      "units": "Unidades vendidas",
+      "officesTitle": "Visítanos en nuestras oficinas",
+      "officesSubtitle": "Te esperamos en el corazón de Playa del Carmen.",
+      "address": "Dirección",
+      "addressText": "Av. Constituyentes 123\nPlaya del Carmen, Quintana Roo",
+      "phone": "Teléfono",
+      "phoneText": "+52 984 123 4567",
+      "email": "Correo electrónico",
+      "emailText": "info@mayanpacific.com",
+      "hours": "Horarios de atención",
+      "hoursText": "Lunes a Viernes: 9:00 AM - 7:00 PM"
+    },
+    "contact": {
+      "title": "¿Listo para encontrar tu propiedad ideal?",
+      "subtitle": "Contáctanos hoy mismo y descubre las mejores oportunidades.",
+      "form": {
+        "name": "Nombre completo",
+        "namePlaceholder": "Tu nombre completo",
+        "email": "Correo electrónico",
+        "emailPlaceholder": "tu@email.com",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "+52 984 123 4567",
+        "interest": "¿Qué tipo de propiedad te interesa?",
+        "selectOption": "Selecciona una opción",
+        "condo": "Departamento/Condominio",
+        "villa": "Villa/Casa",
+        "penthouse": "Penthouse",
+        "investment": "Inversión/Renta",
+        "other": "Otro",
+        "message": "Cuéntanos más sobre lo que buscas...",
+        "messagePlaceholder": "Describe tu propiedad ideal...",
+        "send": "Enviar Mensaje"
+      },
+      "directContact": "¿Prefieres hablar directamente? Llámanos:"
+    },
+    "footer": {
+      "description": "Tu socio de confianza en bienes raíces de lujo en la Riviera Maya.",
+      "projects": "Proyectos",
+      "projectBaay": "Baay - Playa del Carmen",
+      "projectBrahma": "Brahma - Selvazama",
+      "allProjects": "Ver Todos los Proyectos",
+      "services": "Servicios",
+      "propertySales": "Venta de Propiedades",
+      "investmentAdvice": "Asesoría de Inversión",
+      "propertyManagement": "Administración de Propiedades",
+      "legalConsulting": "Consultoría Legal",
+      "contact": "Contacto",
+      "location": "Playa del Carmen, Q.R.",
+      "follow": "Síguenos",
+      "followDesc": "Mantente al día con las últimas propiedades.",
+      "rights": "Todos los derechos reservados.",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos y Condiciones"
+    }
+  }
+  
