@@ -498,22 +498,22 @@ export default function MayanPacificImproved() {
                     </CardContent>
                   </Card>
                 </div>
-
                 {/* Map */}
                 <div className="h-96 lg:h-full min-h-[400px]">
                   <div className="w-full h-full bg-gray-100 rounded-2xl overflow-hidden shadow-lg">
                     <iframe
-                      src="https://maps.app.goo.gl/SvBdtjLRJwii8Hx99?g_st=ipc"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3734.191339245795!2d-87.07849499999999!3d20.6210563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e433ea200ae9b%3A0x7f53b8deaef934c6!2sPlaza%20Paraiso%20Caribe!5e0!3m2!1sen!2sar!4v1752627484241!5m2!1sen!2sar"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
                       allowFullScreen
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      className="grayscale hover:grayscale-0 transition-all duration-300"
+                      className="w-full h-full grayscale hover:grayscale-0 transition-all duration-300"
                     ></iframe>
                   </div>
                 </div>
+
               </div>
             </div>
           </div>
