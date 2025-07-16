@@ -503,7 +503,7 @@ export default function MayanPacificImproved() {
                 <div className="h-96 lg:h-full min-h-[400px]">
                   <div className="w-full h-full bg-gray-100 rounded-2xl overflow-hidden shadow-lg">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.8234567890123!2d-87.0739!3d20.6296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e433f1234567%3A0x1234567890abcdef!2sPlaya%20del%20Carmen%2C%20Quintana%20Roo%2C%20M%C3%A9xico!5e0!3m2!1ses!2smx!4v1234567890123!5m2!1ses!2smx"
+                      src="https://maps.app.goo.gl/SvBdtjLRJwii8Hx99?g_st=ipc"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
