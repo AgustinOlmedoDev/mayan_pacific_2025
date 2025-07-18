@@ -626,8 +626,8 @@ export default function MayanPacificImproved() {
             <div className="text-center mt-8 text-gray-800">
               <p className="text-sm">
                 {t("contact.directContact")}
-                <a href="tel:+529841234567" className="text-orange-600 hover:text-orange-700 font-medium ml-3">
-                  +52 984 123 4567
+                <a href="tel:+529848771859" className="text-orange-600 hover:text-orange-700 font-medium ml-3">
+                  +529848771859
                 </a>
               </p>
             </div>
@@ -662,7 +662,7 @@ export default function MayanPacificImproved() {
                   <Music className="w-5 h-5" />
                 </Link>
                 <Link
-                  href="https://wa.me/529841234567"
+                  href="https://wa.me/529848771859"
                   target="_blank"
                   className="w-10 h-10 bg-gray-700 hover:bg-green-500 rounded-lg flex items-center justify-center transition-colors duration-300"
                 >
@@ -720,7 +720,7 @@ export default function MayanPacificImproved() {
               <div className="space-y-3 text-gray-300">
                 <div className="flex items-center">
                   <Phone className="w-4 h-4 mr-2" />
-                  <span>+52 984 123 4567</span>
+                  <span>+529848771859</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-4 h-4 mr-2" />
@@ -753,7 +753,7 @@ export default function MayanPacificImproved() {
 
       {/* WhatsApp Button */}
       <Link
-        href="https://wa.me/529841234567"
+        href="https://wa.me/529848771859"
         className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 bg-green-500 hover:bg-green-600 text-white p-3 sm:p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110 z-50"
         target="_blank"
         rel="noopener noreferrer"
